@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="104" viewBox="0 0 104 104">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_27070" data-name="長方形 27070" width="51.587" height="35.849" fill="#cba258"/>
+    </clipPath>
+  </defs>
+  <g id="SB_card" transform="translate(-135 -176)">
+    <rect id="長方形_27086" data-name="長方形 27086" width="104" height="104" rx="52" transform="translate(135 176)" fill="#edebe9"/>
+    <g id="グループ_46936" data-name="グループ 46936" transform="translate(22367.98 13831)">
+      <g id="グループ_39961" data-name="グループ 39961" transform="translate(-22206 -13620)">
+        <g id="グループ_39960" data-name="グループ 39960" clip-path="url(#clip-path)">
+          <path id="パス_336" data-name="パス 336" d="M48.49,34.83H1.889A1.874,1.874,0,0,1,0,32.973V1.858A1.874,1.874,0,0,1,1.889,0h46.6a1.874,1.874,0,0,1,1.889,1.858V32.973A1.874,1.874,0,0,1,48.49,34.83" transform="translate(0.55 0.514)" fill="#fff"/>
+          <path id="パス_337" data-name="パス 337" d="M31.74,34.837H1.858A1.858,1.858,0,0,1,0,32.979V1.858A1.858,1.858,0,0,1,1.858,0H31.74Z" transform="translate(0.551 0.507)" fill="#00754a"/>
+          <path id="パス_338" data-name="パス 338" d="M56.409,10.2A5.2,5.2,0,1,1,51.2,5a5.2,5.2,0,0,1,5.2,5.2" transform="translate(-9.169 -0.997)" fill="#00754a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

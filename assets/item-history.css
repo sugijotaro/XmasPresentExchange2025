@@ -1,0 +1,59 @@
+.sec_history * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.sec_history .container {
+  max-width: 1264px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+.sec_history {
+  padding: 64px 0 60px;
+  background-color: #edebe9;
+}
+.sec_history h2 {
+  margin-bottom: 25px;
+  color: #0000004d;
+  font-weight: bold;
+  font-size: 13px;
+  text-align: left;
+}
+.history_wrap_list ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -6px;
+  list-style: none;
+}
+.history_wrap_list ul li {
+  width: 112px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+.history_wrap_list img {
+  border-radius: 12px;
+  max-width: 100%;
+}
+/* cursor */
+.cursor-pointer {
+  cursor: pointer;
+}
+@media (max-width: 1023.9px) {
+  .sec_history {
+    padding: 40px 0;
+  }
+  .history_wrap_list ul li {
+    /* width: 19%; */
+    width: 64px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+  }
+  .history_wrap_list ul {
+    margin-right: -4px;
+  }
+}
+@media (max-width: 519px) {
+  .sec_history .container {
+    padding: 0 16px;
+  }
+}
