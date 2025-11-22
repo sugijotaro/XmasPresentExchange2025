@@ -350,18 +350,6 @@
     <!-- ===== メインコンテンツ ここまで ===== -->
 
     <!-- ★ここにJavaScriptのロジックを入れてください -->
-    <script>
-      function checkPartner() {
-        var inputId = document.getElementById('partnerId').value;
-        var resultDisplay = document.getElementById('resultDisplay');
-        
-        // テスト用ロジック（実際はここにID照合を入れてください）
-        if(inputId === "") {
-           resultDisplay.innerHTML = "IDを入力してください！";
-        } else {
-           resultDisplay.innerHTML = "あなたがプレゼントをあげるのは...<br><span style='font-size:30px; display:block; margin-top:10px;'>お楽しみ！</span>";
-        }
-      }
-    </script>
+    <script src="./assets/check_partner.js"></script>
   </body>
 </html>
