@@ -18,7 +18,7 @@ function checkPartner() {
     .then(function(data) {
       if (data[inputId]) {
         var partnerName = data[inputId];
-        resultDisplay.innerHTML = "あなたがプレゼントをあげるのは...<br><span style='font-size:30px; display:block; margin-top:10px;'>" + partnerName + " さん</span>";
+        resultDisplay.innerHTML = "あなたがプレゼントをあげるのは...<br><span style='font-size:2.4rem; font-weight:bold; display:block; margin-top:10px;'>" + partnerName + " さん</span>";
       } else {
         resultDisplay.innerHTML = "該当するIDが見つかりません。<br>入力間違ってない？";
       }
