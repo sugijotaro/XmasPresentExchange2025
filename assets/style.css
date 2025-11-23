@@ -331,6 +331,12 @@
   font-weight: 700;
   src: url(/common/fonts/SoDoSans/SoDoSans-Bold.woff2) format("woff2"), url(/common/fonts/SoDoSans/SoDoSans-Bold.woff) format("woff");
 }
+
+body {
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
 .c-disclosure-details {
   overflow: hidden;
   transition: height 0.5s;
